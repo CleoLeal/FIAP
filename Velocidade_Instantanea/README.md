@@ -14,7 +14,9 @@ Desenvolvido através dessas tecnologias:
 - Arduino
 
 ## 💻 Projeto
-Ainda está em desenvolvimento
+<p align="center">
+  <img alt="Projeto" src="./preview.jpeg" width="70%">
+</p>
 
 ## 📐 Materiais
 - ESP32
