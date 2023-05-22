@@ -25,5 +25,6 @@ Desenvolvido através dessas tecnologias:
 - Régua Inox de 60cm
 - Display LCD 16x2
 - Base de madeira
+- Peça de Lego
 
 <h5>Desenvolvido por <b>Cléo Leal</b> e <b>Ana Julia Oliveira</b> para o CheckPoint da FIAP.</h5>
