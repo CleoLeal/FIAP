@@ -23,6 +23,7 @@ Desenvolvido através dessas tecnologias:
 - Jumper
 - Sensor óptico TCRT 5000
 - Régua Inox de 60cm
-- Madeira
+- Display LCD 16x2
+- Base de madeira
 
 <h5>Desenvolvido por <b>Cléo Leal</b> e <b>Ana Julia Oliveira</b> para o CheckPoint da FIAP.</h5>
